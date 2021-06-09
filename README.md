@@ -13,4 +13,6 @@ This project will help to understand how to implement CoreData in SwiftUI applic
 
 App Running:
 
-![App Running](/readme/preview.mov)
+<video width="400" height="500" controls>
+  <source src="/readme/preview.mov" type="video/mp4">
+</video>
